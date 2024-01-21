@@ -1,1 +1,1 @@
-# Template for Machine Learning projects
+# Cat and Dog Image Classification project I'd like to optimize.
